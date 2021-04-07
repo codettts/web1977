@@ -81,7 +81,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div> 
 					<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="index.html" class="act">Home</a></li>	
+							<li class="active"><a href="index.php" class="act">Home</a></li>	
 							<!-- Mega Menu -->
 							<li class="dropdown">
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Products <b class="caret"></b></a>
@@ -187,7 +187,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="header-right">
 					<div class="cart box_1">
-						<a href="checkout.html">
+						<a href="checkout.php">
 							<h3> <div class="total">
 								<span class="simpleCart_total"></span> (<span id="simpleCart_quantity" class="simpleCart_quantity"></span> items)</div>
 								<img src="images/bag.png" alt="" />
@@ -330,7 +330,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 						</div>
-						<h4><a href="single.html">Formal Shirt</a></h4>
+						<h4><a href="single.php">Formal Shirt</a></h4>
 						<p>Vel illum qui dolorem eum fugiat.</p>
 						<div class="new-collections-grid1-left simpleCart_shelfItem">
 							<p><i>$325</i> <span class="item_price">$250</span><a class="item_add" href="#">add to cart </a></p>
@@ -363,7 +363,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 						</div>
-						<h4><a href="single.html">Running Shoes</a></h4>
+						<h4><a href="single.php">Running Shoes</a></h4>
 						<p>Vel illum qui dolorem eum fugiat.</p>
 						<div class="new-collections-grid1-left simpleCart_shelfItem">
 							<p><i>$280</i> <span class="item_price">$150</span><a class="item_add" href="#">add to cart </a></p>
@@ -436,7 +436,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 								</div>
-								<h4><a href="single.html">Wall Lamp</a></h4>
+								<h4><a href="single.php">Wall Lamp</a></h4>
 								<p>Vel illum qui dolorem eum fugiat.</p>
 								<div class="new-collections-grid1-left simpleCart_shelfItem">
 									<p><i>$480</i> <span class="item_price">$400</span><a class="item_add" href="#">add to cart </a></p>
@@ -471,7 +471,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 									</div>
 								</div>
-								<h4><a href="single.html">Wall Lamp</a></h4>
+								<h4><a href="single.php">Wall Lamp</a></h4>
 								<p>Vel illum qui dolorem eum fugiat.</p>
 								<div class="new-collections-grid1-left simpleCart_shelfItem">
 									<p><i>$280</i> <span class="item_price">$150</span><a class="item_add" href="#">add to cart </a></p>
