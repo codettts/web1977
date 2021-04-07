@@ -64,7 +64,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 			<div class="logo-nav">
 				<div class="logo-nav-left animated wow zoomIn" data-wow-delay=".5s">
-					<h1><a href="index.html">TOYSHOP <span>Shop anywhere</span></a></h1>
+					<h1><a href="index.php">TOYSHOP <span>Shop anywhere</span></a></h1>
 				</div>
 				<div class="logo-nav-left1">
 					<nav class="navbar navbar-default">
@@ -297,7 +297,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<!-- flixslider -->
 				</div>
 				<div class="col-md-7 single-right-left simpleCart_shelfItem animated wow slideInRight" data-wow-delay=".5s">
-					<h3>Men's Solid Casual Shirt</h3>
+					<h3>Remote control car</h3>
 					<h4><span class="item_price">$550</span> - $900</h4>
 					<div class="rating1">
 						<span class="starRating">
