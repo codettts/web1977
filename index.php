@@ -305,9 +305,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-3 new-collections-grid">
 					<div class="new-collections-grid1 animated wow slideInUp" data-wow-delay=".5s">
 						<div class="new-collections-grid1-image">
-							<a href="single.html" class="product-image"><img src="images/sp1.jpg" alt=" " class="img-responsive" /></a>
+							<a href="single.php" class="product-image"><img src="images/sp1.jpg" alt=" " class="img-responsive" /></a>
 							<div class="new-collections-grid1-image-pos">
-								<a href="single.html">Quick View</a>
+								<a href="single.php">Quick View</a>
 							</div>
 							<div class="new-collections-grid1-right">
 								<div class="rating">
@@ -338,9 +338,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="new-collections-grid1 animated wow slideInUp" data-wow-delay=".5s">
 						<div class="new-collections-grid1-image">
-							<a href="single.html" class="product-image"><img src="images/sp3.jpg" alt=" " class="img-responsive" /></a>
+							<a href="single.php" class="product-image"><img src="images/sp3.jpg" alt=" " class="img-responsive" /></a>
 							<div class="new-collections-grid1-image-pos">
-								<a href="single.html">Quick View</a>
+								<a href="single.php">Quick View</a>
 							</div>
 							<div class="new-collections-grid1-right">
 								<div class="rating">
@@ -373,9 +373,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-6 new-collections-grid">
 					<div class="new-collections-grid1 new-collections-grid1-image-width animated wow slideInUp" data-wow-delay=".5s">
 						<div class="new-collections-grid1-image">
-							<a href="single.html" class="product-image"><img src="images/sp7.jpg" alt=" " class="img-responsive" /></a>
+							<a href="single.php" class="product-image"><img src="images/sp7.jpg" alt=" " class="img-responsive" /></a>
 							<div class="new-collections-grid1-image-pos new-collections-grid1-image-pos1">
-								<a href="single.html">Quick View</a>
+								<a href="single.php">Quick View</a>
 							</div>
 							<div class="new-collections-grid1-right new-collections-grid1-right-rate">
 								<div class="rating">
@@ -401,7 +401,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<p>New</p>
 							</div>
 						</div>
-						<h4><a href="single.html">Dining Table</a></h4>
+						<h4><a href="single.php">Dining Table</a></h4>
 						<p>Vel illum qui dolorem eum fugiat.</p>
 						<div class="new-collections-grid1-left simpleCart_shelfItem">
 							<p><i>$580</i> <span class="item_price">$550</span><a class="item_add" href="#">add to cart </a></p>
@@ -413,7 +413,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="new-collections-grid1-image">
 									<a href="single.html" class="product-image"><img src="images/sp8.jpg" alt=" " class="img-responsive" /></a>
 									<div class="new-collections-grid1-image-pos">
-										<a href="single.html">Quick View</a>
+										<a href="single.php">Quick View</a>
 									</div>
 									<div class="new-collections-grid1-right">
 										<div class="rating">
@@ -448,7 +448,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="new-collections-grid1-image">
 									<a href="single.html" class="product-image"><img src="images/sp9.jpg" alt=" " class="img-responsive" /></a>
 									<div class="new-collections-grid1-image-pos">
-										<a href="single.html">Quick View</a>
+										<a href="single.php">Quick View</a>
 									</div>
 									<div class="new-collections-grid1-right">
 										<div class="rating">
@@ -486,7 +486,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="new-collections-grid1-image">
 							<a href="single.html" class="product-image"><img src="images/sp2.png" alt=" " class="img-responsive" /></a>
 							<div class="new-collections-grid1-image-pos">
-								<a href="single.html">Quick View</a>
+								<a href="single.php">Quick View</a>
 							</div>
 							<div class="new-collections-grid1-right">
 								<div class="rating">
@@ -509,7 +509,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 						</div>
-						<h4><a href="single.html">Pearl & Stone Anklet</a></h4>
+						<h4><a href="single.php">Pearl & Stone Anklet</a></h4>
 						<p>Vel illum qui dolorem eum fugiat.</p>
 						<div class="new-collections-grid1-left simpleCart_shelfItem">
 							<p><i>$180</i> <span class="item_price">$120</span><a class="item_add" href="#">add to cart </a></p>
@@ -519,7 +519,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="new-collections-grid1-image">
 							<a href="single.html" class="product-image"><img src="images/sp10.jpg" alt=" " class="img-responsive" /></a>
 							<div class="new-collections-grid1-image-pos">
-								<a href="single.html">Quick View</a>
+								<a href="single.php">Quick View</a>
 							</div>
 							<div class="new-collections-grid1-right">
 								<div class="rating">
@@ -542,7 +542,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 						</div>
-						<h4><a href="single.html">Stones Bangles</a></h4>
+						<h4><a href="single.php">Stones Bangles</a></h4>
 						<p>Vel illum qui dolorem eum fugiat.</p>
 						<div class="new-collections-grid1-left simpleCart_shelfItem">
 							<p><i>$340</i> <span class="item_price">$257</span><a class="item_add" href="#">add to cart </a></p>
@@ -559,7 +559,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="timer-grids">
 				<div class="col-md-8 timer-grid-left animated wow slideInLeft" data-wow-delay=".5s">
-					<h3><a href="products.html">sunt in culpa qui officia deserunt mollit</a></h3>
+					<h3><a href="products.php">sunt in culpa qui officia deserunt mollit</a></h3>
 					<div class="rating">
 						<div class="rating-left">
 							<img src="images/2.png" alt=" " class="img-responsive" />
