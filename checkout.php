@@ -239,7 +239,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 						</td>
-						<td class="invert">Black Shoe</td>
+						<td class="invert">Remote Control Car</td>
 						<td class="invert">$5.00</td>
 						<td class="invert">$290.00</td>
 						<td class="invert">
@@ -258,7 +258,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</tr>
 					<tr class="rem2">
 						<td class="invert">2</td>
-						<td class="invert-image"><a href="single.html"><img src="images/sp2.png" alt=" " class="img-responsive" /></a></td>
+						<td class="invert-image"><a href="single.php"><img src="images/sp2.png" alt=" " class="img-responsive" /></a></td>
 						<td class="invert">
 							 <div class="quantity"> 
 								<div class="quantity-select">                           
@@ -268,7 +268,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 						</td>
-						<td class="invert">Centre Table</td>
+						<td class="invert">Remote Control Airplane</td>
 						<td class="invert">$5.00</td>
 						<td class="invert">$250.00</td>
 						<td class="invert">
@@ -287,7 +287,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</tr>
 					<tr class="rem3">
 						<td class="invert">3</td>
-						<td class="invert-image"><a href="single.html"><img src="images/sp3.jpg" alt=" " class="img-responsive" /></a></td>
+						<td class="invert-image"><a href="single.php"><img src="images/sp3.jpg" alt=" " class="img-responsive" /></a></td>
 						<td class="invert">
 							 <div class="quantity"> 
 								<div class="quantity-select">                           
@@ -297,7 +297,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								</div>
 							</div>
 						</td>
-						<td class="invert">Stone Bangles</td>
+						<td class="invert">Robot Model</td>
 						<td class="invert">$5.00</td>
 						<td class="invert">$299.00</td>
 						<td class="invert">
