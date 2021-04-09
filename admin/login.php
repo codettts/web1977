@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <div class="container-fluid bg">
 	<div class="row justify-content-center">
 		<div class="col-md-3 col-sm-6 col-xs-12 row-container">
-			<form method="POST" action="">
+			<form method="POST" action="index.php">
 				<h1 style="text-align: center;">Login</h1>
 				<div class="form-group">
 					<label for="username">Username: </label>
